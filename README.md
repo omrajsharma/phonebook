@@ -52,7 +52,7 @@ The Phone Book App is built using the following technologies:
 
 To install and run the Phone Book App locally, follow these steps:
 
-2. Clone the repository: git clone [https://github.com/lisitsyna-anna/phonebook]
+2. Clone the repository: git clone [https://github.com/omrajsharma/phonebook]
 3. Navigate to the project directory: cd phonebook
 4. Install dependencies: npm install
 5. Start the development server: npm start
